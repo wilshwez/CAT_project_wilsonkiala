@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 2em;
+    margin: 0;
+}
+
+header p {
+    font-size: 1.5em;
+    margin: 0;
+}
+
+section {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+#about, #projects, #contact {
+    margin-top: 20px;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+.project {
+    margin: 20px 0;
+}
+
+.project img {
+    max-width: 100%;
+}
+
+.project h3 {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
